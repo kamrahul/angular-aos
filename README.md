@@ -73,4 +73,4 @@ import AOS from "aos";
 
 > Add changes to app.component.css , app.component.html
 
- ## Restart the development server to reflect the changes.
+ ## Restart the development server to reflect the changes
